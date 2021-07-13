@@ -7,6 +7,7 @@ public class gitTest {
         System.out.println("你好2!");
         System.out.println("你好2! hot-fix");
         System.out.println("你好2! master");
+        System.out.println("你好2! hot-fix2");
 
     }
 
